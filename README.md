@@ -7,5 +7,6 @@ The main goal is early risk detection—helping financial institutions act befor
 
 
 2. PIPELINE METHODOLOGY FRAMEWORK CRISP-DM
+
 Raw Data -> Data Cleaning -> Target Variable Creation -> Feature Engineering -> Train-Test Split -> Model Training -> Model Evaluation
 -> Final Risk Prediction
